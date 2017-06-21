@@ -3,7 +3,7 @@ name = "granny"
 version = "0.0.1"
 license = "MIT"
 authors = ["3442853561<3442853561@qq.com>"]
-keywords = ["computing", "scientific computing"]
+keywords = ["computing", "scientific"]
 
 description = "Granny is the crate for scientific computing with Rust"
 repository = "https://github.com/RustDream/Granny"
