@@ -1,3 +1,2 @@
-pub mod float;
-pub mod math;
-pub use math::Euclidean;
+pub mod integer;
+pub use integer::{Integer,Integer16};

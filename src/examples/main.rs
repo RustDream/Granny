@@ -1,7 +1,9 @@
 extern crate granny;
-
-use granny::Euclidean;
-
+use granny::{Integer, Integer16};
 fn main() {
-    println!("{}", 10u8.gcd(8));
+    let mut foo = Integer16::new();
+    let mut bar = Integer16::new();
+    foo.set(-1);
+    bar.set(-1);
+    println!("{:?}", foo + bar);
 }
